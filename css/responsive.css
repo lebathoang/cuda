@@ -1,0 +1,224 @@
+@media screen and (max-width: 400px) {
+  .body .welcome .button button,
+  .body .main button,
+  .body .footer button {
+    width: 70%;
+  }
+  .body .welcome {
+    padding: 50px 0;
+  }
+  .body .welcome h1 {
+    font-size: 30px;
+    margin-top: 35px;
+  }
+  .body .welcome a {
+    font-size: 12px!important;
+  }
+  .body .welcome .button {
+    margin-top: 30px;
+  }
+  .body .service {
+    padding: 50px 0px 10px;
+  }
+  .body .service img {
+    max-width: 100px;
+  }
+  .body .service .h1 {
+    font-size: 30px;
+  }
+  .body .service h1 {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  .body .service .boder {
+    margin-top: 10px;
+  }
+  .body .service p {
+    font-size: 12px;
+    padding-bottom: 40px;
+    margin-top: 15px;
+  }
+  .body .team {
+    padding: 0;
+  }
+  .body .team .first {
+   width: 120px;
+   height: 120px;
+  }
+  .body .team .h1 {
+    font-size: 30px;
+    margin-top: 50px;
+  }
+  .body .team h1 {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  .body .team .link {
+    margin-top: 5px;
+  }
+  .body .team .icon {
+    margin-bottom: 50px;
+    margin-top: 15px;
+  }
+  .body .team .boder {
+    margin-top: 10px;
+  }
+  .body .team .p {
+    font-size: 12px;
+    padding-bottom: 40px;
+    margin-top: 15px;
+  }
+  .body .team p {
+    font-size: 12px;
+    margin-top: 10px;
+  }
+  .body .team a {
+    font-size: 12px;
+  }
+  .body .skill {
+    padding: 0;
+  }
+  .body .skill img {
+    max-width: 100px;
+  }
+  .body .skill .boder {
+    margin-top: 10px;
+  }
+  .body .skill .h1 {
+    font-size: 30px;
+    margin: 0;
+    margin-top: 50px;
+  }
+  .body .skill h1 {
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 35px;
+  }
+  .body .skill p {
+    font-size: 12px;
+    margin-top: 15px;
+    padding-bottom: 40px;
+  }
+  .body .main {
+    padding: 50px 0;
+  }
+  .body .main img {
+    max-width: 300px;
+  }
+  .body .main h1 {
+    font-size: 30px;
+  }
+  .body .main .boder {
+    margin-top: 10px;
+  } 
+  .body .main p {
+    font-size: 12px;
+    margin-top: 5px;
+    padding-bottom: 20px;
+  }
+  .body .main .p {
+    font-size: 12px;
+    margin-top: 15px;
+    padding-bottom: 0;
+  }
+  .body .main ul {
+    margin-top: 40px;
+    padding-bottom: 40px;
+  }
+  .body .main ul li a {
+    font-size: 12px;
+  }
+  .body .main button a {
+    font-size: 12px;
+  }
+  .body .hamburger {
+    padding: 50px 0px 10px;
+  }
+  .body .hamburger .hanover {
+    margin-bottom: 40px;
+  }
+  .body .hamburger .boder {
+    margin-top: 10px;
+  }
+  .body .hamburger h1 {
+    font-size: 30px;
+  }
+  .body .hamburger p {
+    font-size: 18px;
+    margin-top: 15px;
+    padding-bottom: 40px;
+  }
+  .body .hamburger .hanover .text h1 {
+    font-size: 16px;
+  }
+  .body .hamburger .hanover .text p {
+    font-size: 10px;
+  }
+  .body .hamburger .hanover .text a {
+    font-size: 12px;
+  }
+  .body .footer {
+    padding: 50px 0;
+  }
+  .body .footer .boder {
+    margin-top: 10px;
+  }
+  .body .footer .zero {
+    margin-top: 25px;
+  }
+  .body .footer h1 {
+    font-size: 30px;
+  }
+  .body .footer p {
+    font-size: 12px;
+    margin-top: 15px;
+    padding-bottom: 40px;
+  }
+  .body .footer span {
+    font-size: 12px!important;
+  }
+  .body .footer button {
+    margin-top: 30px;
+  }
+  .body .footer button a {
+    font-size: 12px;
+  }
+  .body .bottom-footer {
+    padding: 25px 0;
+  }
+  .body .bottom-footer ul li a {
+    font-size: 18px;
+  }
+  .container {
+    width: 100%;
+  }
+  .col-1 {
+    width: 100%;
+    text-align: center;
+  }  
+  .col-3 {
+    width: 100%;
+  }  
+  .col-2 {
+    width: 100%;
+    text-align: center;
+  }  
+  .body .welcome ul {
+    width: 100%;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .body .footer .last,
+  .body .footer .zero,
+  .body .footer .center {
+    padding: 0;
+  }
+  .body .footer input {
+    width: 100%!important;
+  }
+  .body .footer .last .left,
+  .body .footer .zero .right,
+  .body .footer .message {
+    width: 100%;
+  }
+}
