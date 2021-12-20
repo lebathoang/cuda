@@ -1,0 +1,26 @@
+{
+  "name": "cuda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "sass": "node-sass sass/style.scss -w css/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebathoang/cuda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebathoang/cuda/issues"
+  },
+  "homepage": "https://github.com/lebathoang/cuda#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.0"
+  }
+}

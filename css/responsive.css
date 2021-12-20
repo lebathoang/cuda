@@ -1,4 +1,377 @@
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 1024px) {
+  .container {
+    width: 100%;
+  }
+  .col-1 {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+  }
+  .col-2 {
+    width: 100%;
+    text-align: center;
+  }
+  .body .welcome ul {
+    margin-top: 20px;
+  }
+  .body .welcome .h1 {
+    margin-top: 60px;
+  }
+  .body .welcome {
+    padding: 50px 0px 100px;
+  }
+  .body .service {
+    padding: 50px 0px 75px;
+  }
+  .body .service .h1 {
+    margin: 0px;
+  }
+  .body .service .boder {
+    margin-top: 10px;
+  }
+  .body .service p {
+    margin-top: 10px;
+    padding-bottom: 35px;
+  }
+  .body .service h1 {
+    margin-top: 25px;
+  }
+  .body .team {
+    padding: 50px 0px 100px;
+  }
+  .body .team .h1 {
+    margin: 0px;
+  }
+  .body .team .boder {
+    margin-top: 10px;
+  }
+  .body .team .p {
+    margin-top: 15px;
+    padding-bottom: 10px;
+  }
+  .body .team .first {
+    margin-top: 50px;
+  }
+  .body .team h1 {
+    margin-top: 20px;
+  }
+  .body .team .link {
+    margin-top: 0px;
+  }
+  .body .team p {
+    margin-top: 10px;
+  }
+  .body .team .icon {
+    margin-top: 20px;
+  }
+  .body .skill {
+    padding: 50px 0px 100px;
+  }
+  .body .skill .h1 {
+    margin: 0px;
+  }
+  .body .skill .boder {
+    margin-top: 10px;
+  }
+  .body .skill p {
+    margin-top: 15px;
+    padding-bottom: 10px;
+  }
+  .body .skill h1 {
+    margin-top: 15px;
+  }
+  .body .skill .logo {
+    margin-top: 50px;
+  }
+  .body .main {
+    padding: 50px 0px 100px;
+  }
+  .body .main .boder {
+    margin-top: 10px;
+  }
+  .body .main .p {
+    margin-top: 15px;
+    padding-bottom: 15px;
+  }
+  .body .main ul {
+    margin-top: 15px;
+    padding-bottom: 40px;
+  }
+  .body .main p {
+    margin-top: 10px;
+    padding-bottom: 40px;
+  }
+  .body .main button {
+    margin-top: 5px;
+  }
+  .body .hamburger {
+    padding: 50px 0px 70px;
+  }
+  .body .hamburger .boder {
+    margin-top: 10px;
+  }
+  .body .hamburger p {
+    margin-top: 15px;
+    padding-bottom: 40px;
+  }
+  .body .hamburger .hanover {
+    margin-bottom: 40px;
+  }
+  .body .hamburger .hanover .gray {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+  }
+  .body .hamburger .hanover .text p {
+    font-size: 20px;
+  }
+  .body .hamburger .hanover .text h1 {
+    font-size: 23px;
+  }
+  .body .hamburger .hanover .text a {
+    font-size: 17.5px;
+  }
+  .body .footer {
+    padding: 50px 0px 100px;
+  }
+  .body .footer .boder {
+    margin-top: 10px;
+  }
+  .body .footer p {
+    margin-top: 15px;
+    padding-bottom: 40px;
+  }
+  .body .footer .last {
+    padding: 0px 12.5%;
+  }
+  .body .footer .zero {
+    padding: 0px 12.5%;
+    margin-top: 27px;
+  }
+  .body .footer .zero .right {
+    text-align: left;
+  }
+  .body .footer .last .left {
+    text-align: left;
+  }
+  .body .footer button {
+    margin-top: 50px;
+  }
+  .body .bottom-footer {
+    padding: 20px 0;
+  }
+  .body .bottom-footer ul li a {
+    font-size: 17px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .container {
+    width: 100%;
+  }
+  .col-1 {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+  }
+  .col-2 {
+    width: 50%;
+    text-align: center;
+  }
+  .body .welcome {
+    padding: 50px 0;
+  }
+  .body .welcome ul {
+    margin-top: 25px;
+  }
+  .body .welcome h1 {
+    margin-top: 55px;
+    font-size: 35px;
+  }
+  .body .service {
+    padding: 50px 0;
+  }
+  .body .service .h1 {
+    margin: 0px;
+    font-size: 35px;
+  }
+  .body .service .boder {
+    margin-top: 10px;
+  }
+  .body .service .logo {
+    margin-top: 45px;
+  }
+  .body .service h1 {
+    margin-top: 20px;
+  }
+  .body .service p {
+    margin-top: 10px;
+    padding: 0px;
+  }
+  .body .team {
+    padding: 50px 0;
+  }
+  .body .team .h1 {
+    margin: 0px;
+    font-size: 35px;
+  }
+  .body .team .boder {
+    margin-top: 10px;
+  }
+  .body .team .p {
+    margin-top: 15px;
+    padding-bottom: 20px;
+  }
+  .body .team h1 {
+    margin-top: 20px;
+  }
+  .body .team .first {
+    margin-top: 45px;
+  }
+  .body .team .link {
+    margin-top: 5px;
+  }
+  .body .team p {
+    margin-top: 13px;
+  }
+  .body .team .icon {
+    margin-top: 17px;
+  }
+  .body .skill {
+    padding: 50px 0;
+  }
+  .body .skill .h1 {
+    margin: 0px;
+  }
+  .body .skill .boder {
+    margin-top: 10px;
+  }
+  .body .skill p {
+    margin-top: 15px;
+    padding-bottom: 0px;
+  }
+  .body .skill .logo {
+    margin-top: 45px;
+  }
+  .body .skill h1 {
+    margin-top: 15px;
+  }
+  .body .main {
+    padding: 50px 0;
+  }
+  .body .main .boder {
+    margin-top: 10px;
+  }
+  .body .main p {
+    margin-top: 5px;
+    padding-bottom: 5px;
+  }
+  .body .main ul {
+    padding-bottom: 10px;
+  }
+  .body .main img {
+    max-width: 380px;
+    margin-top: 30px;
+  }
+  .body .main button {
+    margin-top: 30px;
+  }
+  .body .hamburger {
+    padding: 50px 0px 10px;
+  }
+  .body .hamburger .boder {
+    margin-top: 10px;
+  }
+  .body .hamburger p {
+    margin-top: 15px;
+    padding-bottom: 40px;
+  }
+  .body .hamburger .hanover {
+    margin-bottom: 60px;
+  }
+  .body .hamburger .hanover .text p {
+    font-size: 14px;
+  }
+  .body .footer {
+    padding: 50px 0;
+  }
+  .body .footer .boder {
+    margin-top: 10px;
+  }
+  .body .footer p {
+    margin-top: 15px;
+    padding-bottom: 40px;
+    font-size: 15px;
+  }
+  .body .footer .last {
+    padding: 0px;
+    padding-left: 25%;
+  }
+  .body .footer .zero {
+    padding: 0px;
+    margin: 0px;
+    padding-right: 25%;
+  }
+  .body .bottom-footer {
+    padding: 20px 0;
+  }
+  .body .footer button {
+    margin-top: 45px;
+  }
+  .body .bottom-footer ul li a {
+    font-size: 20px;
+  } 
+}
+@media screen and (max-width: 768px) {
+  .col-1 {
+    width: 50%;
+    text-align: center;
+  }
+  .col-2 {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+  }
+  .body .welcome .h1, 
+  .body .service .h1, 
+  .body .team .h1, 
+  .body .skill .h1, 
+  .body .main .h1,
+  .body .hamburger .h1,
+  .body .footer .h1 {
+    font-size: 32px;
+  }
+  .body .footer .last, 
+  .body .footer .zero {
+    padding-left: 12.3%;
+    padding-right: 12.3%;
+  }
+  .body .footer .zero {
+    margin-top: 27px;
+  }
+  .body .footer .zero .right {
+    text-align: left;
+  }
+  .body .footer .last .left {
+    text-align: left;
+  }
+  .col-3 {
+    margin: auto;
+  }
+  .body .welcome ul {
+    display: flex;
+    justify-content: center;
+  }
+  .body .bottom-footer ul {
+    overflow-x: auto;
+  }
+  .body .team .p {
+    font-size: 16px;
+  }
+  .body .main img {
+    max-width: 430px;
+  }
+}
+@media screen and (max-width: 414px) {
   .body .welcome .button button,
   .body .main button,
   .body .footer button {
@@ -12,7 +385,7 @@
     margin-top: 35px;
   }
   .body .welcome a {
-    font-size: 12px!important;
+    font-size: 9px!important;
   }
   .body .welcome .button {
     margin-top: 30px;
@@ -129,7 +502,7 @@
     font-size: 12px;
   }
   .body .main button a {
-    font-size: 12px;
+    font-size: 10px;
   }
   .body .hamburger {
     padding: 50px 0px 10px;
@@ -181,10 +554,13 @@
     margin-top: 30px;
   }
   .body .footer button a {
-    font-size: 12px;
+    font-size: 10px;
   }
   .body .bottom-footer {
     padding: 25px 0;
+  }
+  .body .bottom-footer ul {
+    overflow-x: auto;
   }
   .body .bottom-footer ul li a {
     font-size: 18px;
@@ -207,6 +583,7 @@
     width: 100%;
     justify-content: center;
     margin-top: 20px;
+    overflow-x: auto;
   }
   .body .footer .last,
   .body .footer .zero,

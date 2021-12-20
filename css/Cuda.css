@@ -47,7 +47,6 @@
   display: flex;
   list-style-type: none;
   justify-content: flex-end;
-  overflow-x: scroll;
 }
 .body .welcome ul li {
   margin: 0px 5px;
@@ -68,7 +67,7 @@
 .body .welcome ul li a:focus {
   color: red;
 }
-.body .welcome h1 {
+.body .welcome .h1 {
   color: white;
   font-size: 40px;
   text-align: center;
@@ -151,12 +150,12 @@
   text-align: center;
   padding-bottom: 78px;
 }
-.body .team .first {
-  background-color: #878787;
-  width: 200px;
-  height: 200px;
-  border-radius: 100px;
-  margin: auto;
+.body .team .p {
+  color: #3c4761;
+  font-size: 19px;
+  margin-top: 25px;
+  text-align: center;
+  padding-bottom: 78px;
 }
 .body .team h1 {
   color: #27283d;
@@ -232,7 +231,7 @@
   background-color: #ffdd99;
   padding: 120px 0px 110px;
 }
-.body .main h1 {
+.body .main .h1 {
   font-size: 40px;
   color: #393939;
   text-align: center;
@@ -243,7 +242,7 @@
   margin: auto;
   margin-top: 21px;
 }
-.body .main p {
+.body .main .p {
   margin-top: 24px;
   text-align: center;
   font-size: 18px;
@@ -305,7 +304,7 @@
   background-color: #d74680;
   padding-top: 120px;
 }
-.body .hamburger h1 {
+.body .hamburger .h1 {
   color: white;
   font-size: 40px;
   text-align: center;
@@ -325,6 +324,7 @@
 }
 .body .hamburger .hanover {
   display: flex;
+  justify-content: center;
   margin-bottom: 147px;
 }
 .body .hamburger .hanover .gray {
@@ -360,7 +360,7 @@
   background-color: #3c5499;
   padding: 120px 0px 115px;
 }
-.body .footer h1 {
+.body .footer .h1 {
   font-size: 40px;
   color: white;
   text-align: center;
@@ -476,7 +476,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  overflow-x: scroll;
 }
 .body .bottom-footer ul li {
   margin: 0px 28px;
